@@ -2,7 +2,6 @@ import React from 'react';
 import { Table, } from 'reactstrap';
 import {Link, useParams} from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.css';
-import useFetch from '../useFetch';
 import {  useEffect, useState } from "react";
 import axios from 'axios';
 import 'bootstrap/dist/css/bootstrap.css';
